@@ -1,0 +1,13 @@
+Nodes:
+  lns0001: 
+    IBMsoftware: ISAM 9.0.3.1
+    CPUType: high freq Intel xeon
+  lwa1001:
+    IBMsoftware: WAS855
+    CPUType: Intel Xeon
+
+Instances:
+  m1.small:
+    Memory: 1.7 GiB
+    ComputeUnits(ECU): 1 units
+    vCPUs: 1 vCPUs
